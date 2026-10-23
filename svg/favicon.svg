@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0F0F0F"/>
+  <line x1="0" y1="43" x2="64" y2="43" stroke="#E8E6E0" stroke-width="1"/>
+  <line x1="10" y1="37" x2="10" y2="49" stroke="#E8E6E0" stroke-width="1"/>
+  <line x1="54" y1="37" x2="54" y2="49" stroke="#E8E6E0" stroke-width="1"/>
+  <path d="M10 30 L32 12 L54 30" fill="none" stroke="#E8E6E0" stroke-width="2"/>
+  <rect x="10" y="50" width="44" height="6" fill="#FF4B00"/>
+  <text x="32" y="55.2" text-anchor="middle" font-family="Arial Black, Helvetica, sans-serif" font-size="5" fill="#0F0F0F">COTA ZERO</text>
+</svg>

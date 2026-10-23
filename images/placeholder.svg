@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Imagem em carregamento">
+  <rect width="1200" height="900" fill="#b9b8b2"/>
+  <g stroke="#0f0f0f" stroke-width="1" opacity=".22">
+    <path d="M0 0h1200v900H0z" fill="none"/>
+    <path d="M300 0v900M600 0v900M900 0v900M0 300h1200M0 600h1200"/>
+  </g>
+  <g fill="none" stroke="#0f0f0f" stroke-width="1.4" opacity=".48">
+    <path d="M420 520V380h180v140M600 380l60-70 60 70v140H600"/>
+    <path d="M450 440h60v80h-60zM660 430h50v90h-50z"/>
+  </g>
+  <text x="600" y="650" text-anchor="middle" fill="#0f0f0f" font-family="monospace" font-size="14" letter-spacing="3" opacity=".55">A CARREGAR IMAGEM</text>
+</svg>
