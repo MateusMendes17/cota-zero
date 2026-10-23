@@ -47,7 +47,7 @@ const setHTML = (root, selector, value) => {
 };
 
 const meta = (selector) => document.querySelector(selector);
-const SITE = "https://cotazero.pt";
+const SITE = "https://cota-zero.vercel.app";
 const absolute = (src) => new URL(src, `${SITE}/`).href;
 const socialImage = (src) =>
   src.startsWith("images/demo/")

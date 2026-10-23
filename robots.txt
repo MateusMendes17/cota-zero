@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cotazero.pt/sitemap.xml
+Sitemap: https://cota-zero.vercel.app/sitemap.xml

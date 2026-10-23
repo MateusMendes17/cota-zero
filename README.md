@@ -4,6 +4,9 @@ Website estático de demonstração para um atelier de arquitetura fictício no 
 
 > **Demonstração.** A Cota Zero é uma identidade fictícia. Pessoas, obras, prémios, contactos e dados legais são inventados. O formulário de contacto valida localmente e **não envia dados**. As imagens são fotografias de stock da Unsplash. Consulte `legal.html` para o aviso completo.
 
+**Site publicado:** [https://cota-zero.vercel.app](https://cota-zero.vercel.app)  
+**Repositório:** [github.com/MateusMendes17/cota-zero](https://github.com/MateusMendes17/cota-zero)
+
 ## Stack
 
 - HTML5, CSS3 e JavaScript vanilla (ES modules)
